@@ -1,5 +1,7 @@
 using Godot;
 
+namespace Game;
+
 public partial class Pipes : Node2D
 {
 	private float SCROLL_SPEED = 120.0f;
